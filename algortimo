@@ -7,7 +7,7 @@ Algoritmo "semnome"
 Var
 // Seção de Declarações das variáveis
 num, escolher : inteiro
-
+numeros: vetor [1..10] de inteiro
 Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc...
 escreval ("o que deseja fazer?")
