@@ -6,11 +6,14 @@ Algoritmo "semnome"
 // Data atual  : 06/06/2022
 Var
 // Seção de Declarações das variáveis
-num : inteiro
+num, escolher : inteiro
 
 Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc...
-
+escreval ("o que deseja fazer?")
+escreval ("1- ver se o numero e par")
+escreval ("2- ver se o numero e impar")
+escreval ("3- ver se o numero é primo")
 //fazer aqui numeros pares
 
 
